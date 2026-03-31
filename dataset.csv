@@ -1,0 +1,7 @@
+fever,cough,headache,fatigue,disease
+1,1,1,0,Flu
+1,0,1,1,Dengue
+0,1,0,1,Cold
+1,1,0,1,Malaria
+0,0,1,0,Migraine
+1,0,0,1,Typhoid
